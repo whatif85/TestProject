@@ -10,6 +10,7 @@ public class MyScript : MonoBehaviour
 	{
 		print ("You found the sausage!");
 		print ("Something changed");
+		print ("added something else");
 	}
 	
 	// Update is called once per frame
